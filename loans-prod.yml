@@ -1,13 +1,8 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
-
 build:
   version: "1.2"
 
 loans:
-  message: "Welcome to the loans prod"
+  message: "Welcome to the loans - prod"
   contactDetails:
     name: "John"
     email: "john@john"
