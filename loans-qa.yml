@@ -1,13 +1,8 @@
-spring:
-  config:
-    activate:
-      on-profile: "qa"
-
 build:
   version: "1.1"
 
 loans:
-  message: "Welcome to the loans qa"
+  message: "Welcome to the loans - qa"
   contactDetails:
     name: "John"
     email: "john@john"
