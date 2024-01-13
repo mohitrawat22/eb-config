@@ -1,13 +1,8 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
-
 build:
   version: "1.2"
 
 cards:
-  message: "Welcome to the cards prod"
+  message: "Welcome to the cards - prod"
   contactDetails:
     name: "John"
     email: "john@john"
