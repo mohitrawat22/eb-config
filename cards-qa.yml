@@ -1,13 +1,8 @@
-spring:
-  config:
-    activate:
-      on-profile: "qa"
-
 build:
   version: "1.1"
 
 cards:
-  message: "Welcome to the cards qa"
+  message: "Welcome to the cards - qa"
   contactDetails:
     name: "John"
     email: "john@john"
