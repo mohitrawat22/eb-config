@@ -1,11 +1,11 @@
 build:
-    version: "1.0"
+  version: "1.0"
 
-  cards:
-    message: "Welcome to the cards - default"
-    contactDetails:
-      name: "John"
-      email: "john@john"
-    onCallSupport:
-      - (555) 555-1234
-      - (555) 555-1345
+cards:
+  message: "Welcome to the cards - default"
+  contactDetails:
+    name: "John"
+    email: "john@john"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1345
