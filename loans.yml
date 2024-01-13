@@ -1,32 +1,8 @@
-server:
-  port: 8083
-spring:
-  datasource:
-    url: jdbc:h2:mem:testdb
-    driverClassName: org.h2.Driver
-    username: sa
-    password: ''
-  h2:
-    console:
-      enabled: true
-  jpa:
-    database-platform: org.hibernate.dialect.H2Dialect
-    hibernate:
-      ddl-auto: update
-    show-sql: true
-  config:
-    import:
-      - "loans-qa.yml"
-      - "loans-prod.yml"
-    profiles:
-      active:
-        - "qa"
-
-  build:
+build:
     version: "1.0"
 
   loans:
-    message: "Welcome to the loans"
+    message: "Welcome to the loans - default"
     contactDetails:
       name: "John"
       email: "john@john"
