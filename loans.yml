@@ -1,11 +1,11 @@
 build:
-    version: "1.0"
+  version: "1.0"
 
-  loans:
-    message: "Welcome to the loans - default"
-    contactDetails:
-      name: "John"
-      email: "john@john"
-    onCallSupport:
-      - (555) 555-1234
-      - (555) 555-1345
+loans:
+  message: "Welcome to the loans - default"
+  contactDetails:
+    name: "John"
+    email: "john@john"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1345
