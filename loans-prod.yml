@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 loans:
-  message: "Welcome to the loans - production"
+  message: "Welcome to the loans - production 1"
   contactDetails:
     name: "John"
     email: "john@john"
