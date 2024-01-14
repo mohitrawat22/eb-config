@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the cards - default"
+  message: "Welcome to the cards - default webhook check"
   contactDetails:
     name: "John"
     email: "john@john"
