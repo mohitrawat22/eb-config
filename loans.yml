@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to the loans - default"
+  message: "Welcome to the loans - default webhook check"
   contactDetails:
     name: "John"
     email: "john@john"
