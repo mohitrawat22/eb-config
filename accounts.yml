@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the accounts - default webhook check 1"
+  message: "Welcome to the accounts - default webhook check"
   contactDetails:
     name: "John"
     email: "john@john"
