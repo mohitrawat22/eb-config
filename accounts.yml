@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the accounts - default webhook check"
+  message: "Welcome to the accounts via github - default"
   contactDetails:
     name: "John"
     email: "john@john"
