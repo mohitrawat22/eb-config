@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to the accounts via github - prod1"
+  message: "Welcome to the accounts via github - prod2"
   contactDetails:
     name: "John"
     email: "john@john"
